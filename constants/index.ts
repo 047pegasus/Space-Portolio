@@ -98,11 +98,6 @@ export const Skill_data = [
     },
   ];
   
-  
-  
-  export const Frontend_skill = [
-  ];
-  
   export const Backend_skill = [
     {
       skill_name: "Node JS",
