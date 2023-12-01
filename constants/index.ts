@@ -1,24 +1,24 @@
 export const Skill_data = [
     {
-      skill_name: "Html 5",
+      skill_name: "HTML 5",
       Image: "/static/images/html.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Css",
+      skill_name: "CSS",
       Image: "/static/images/css.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Java Script",
+      skill_name: "JavaScript",
       Image: "/static/images/js.png",
       width: 65,
       height: 65,
     },
     {
-      skill_name: "Tailwind Css",
+      skill_name: "Tailwind CSS",
       Image: "/static/images/tailwind.png",
       width: 80,
       height: 80,
@@ -42,13 +42,13 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Type Script",
+      skill_name: "TypeScript",
       Image: "/static/images/ts.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Next js 13",
+      skill_name: "Next JS",
       Image: "/static/images/next.png",
       width: 80,
       height: 80,
@@ -66,13 +66,13 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Node js",
+      skill_name: "Node JS",
       Image: "/static/images/node-js.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Mongo db",
+      skill_name: "Mongo DB",
       Image: "/static/images/mongodb.png",
       width: 40,
       height: 40,
@@ -84,17 +84,22 @@ export const Skill_data = [
     {
       name: "Discord",
       src: "/static/images/discord.svg",
-      link: "https://discord.gg/8q2jyX9",
+      link: "",
     },
     {
       name: "Facebook",
       src: "/static/images/facebook.svg",
-      link: "https://www.facebook.com/abhishek.kumar.90834772/",
+      link: "",
     },
     {
       name: "Instagram",
       src: "/static/images/instagram.svg",
       link: "https://www.instagram.com/abhishek_kumar_90834772/",
+    },
+    {
+      name: "Github",
+      src: "/static/images/gitwhite.png",
+      link: "https://www.github.com/047pegasus",
     },
   ];
   
