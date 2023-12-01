@@ -41,11 +41,11 @@ const Encryption = () => {
         </div>
 
         <div className="Welcome-box px-[15px] py-[4px] z-[20] brder my-[20px] border-[#7042f88b] opacity-[0.9]">
-          <h1 className="Welcome-text text-[17px]"><a href="linktr.ee/047pegasus">Get my Resume</a></h1>
+          <h1 className="Welcome-text text-[21px]"><a href="https://drive.google.com/file/d/1q0BUr0258n7CUBTqbh_tQ2ogChywKFQg/view?usp=sharing">Get my Resume</a></h1>
         </div>
       </div>
       <div className="absolute z-[20] bottom-[10px] px-[5px]">
-        <div className="cursive text-[21px] font-medium text-center text-gray-300">
+        <div className="cursive text-[25px] font-medium text-center text-gray-300">
           Connect or have a conversation with me at 047pegasus@gmail.com
         </div>
       </div>
