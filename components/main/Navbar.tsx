@@ -19,7 +19,7 @@ const Navbar = () => {
           />
 
           <span className="font-bold ml-[10px] hidden md:block text-gray-300">
-            WebChain Dev
+            047pegasus
           </span>
         </a>
 
@@ -39,6 +39,7 @@ const Navbar = () => {
 
         <div className="flex flex-row gap-5">
           {Socials.map((social) => (
+            <a href={social.link} key={social.name}>
             <Image
               src={social.src}
               alt={social.name}
@@ -46,6 +47,7 @@ const Navbar = () => {
               width={24}
               height={24}
             />
+            </a>
           ))}
         </div>
       </div>
