@@ -8,6 +8,7 @@ import {
 } from "react-icons/rx";
 
 import { FaYoutube } from "react-icons/fa";
+import Link from "next/link";
 
 const Footer = () => {
   return (
@@ -24,7 +25,7 @@ const Footer = () => {
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxGithubLogo />
-                        <span className="text-[15px] ml-[6px]"><a href="https://www.github.com/047pegasus">Github</a></span>    
+                        <span className="text-[15px] ml-[6px]"><Link href="https://www.github.com/047pegasus">Github</Link></span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxDiscordLogo />
