@@ -14,7 +14,7 @@ const Projects = () => {
         <ProjectCard
           src="/static/images/hashtree.png"
           title="HashTree: Full Stack Hashnode Clone"
-          description="HashTree is a free developer blogging platform that allows you to publish articles and stay connected with a global developer community. Built with Next.js, Node, Express, Tailwind CSS, and Drizzle ORM."
+          description="HashTree is a free developer blogging platform that allows you to publish articles and stay connected with a global developer community. Built with Next.js, TypeScript, Tailwind CSS, and Drizzle ORM."
         />
         <ProjectCard
           src="/static/images/dockx.png"
