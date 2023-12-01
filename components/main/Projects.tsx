@@ -24,7 +24,7 @@ const Projects = () => {
         <ProjectCard
           src="/static/images/zephyr.png"
           title="Zephyr API"
-          description="A collection of REST APIs that simulate banking transactions in real world built with Go and PostgreSQL."
+          description="A collection of REST APIs that simulate banking transactions in real world built with Go and PostgreSQL. It also has a Frontend client in React that allows you to interact with the APIs."
         />
       </div>
     </div>
