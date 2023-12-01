@@ -82,24 +82,24 @@ export const Skill_data = [
   
   export const Socials = [
     {
+      name: "Github",
+      src: "/static/images/gitwhite.png",
+      link: "https://www.github.com/047pegasus",
+    },
+    {
       name: "Discord",
       src: "/static/images/discord.svg",
-      link: "",
+      link: "https://discord.gg/",
     },
     {
       name: "Facebook",
       src: "/static/images/facebook.svg",
-      link: "",
+      link: "https://www.facebook.com/047pegasus/",
     },
     {
       name: "Instagram",
       src: "/static/images/instagram.svg",
-      link: "https://www.instagram.com/abhishek_kumar_90834772/",
-    },
-    {
-      name: "Github",
-      src: "/static/images/gitwhite.png",
-      link: "https://www.github.com/047pegasus",
+      link: "https://www.instagram.com/047_pegasus/",
     },
   ];
   
@@ -156,16 +156,10 @@ export const Skill_data = [
   
   export const Full_stack = [
     {
-      skill_name: "Webhooks",
-      Image: "/static/images/webhook.svg",
-      width: 70,
-      height: 70,
-    },
-    {
-      skill_name: "Tauri",
-      Image: "/static/images/tauri.svg",
-      width: 70,
-      height: 70,
+      skill_name: "Go",
+      Image: "/static/images/go.png",
+      width: 60,
+      height: 60,
     },
     {
       skill_name: "Docker",
@@ -173,22 +167,26 @@ export const Skill_data = [
       width: 70,
       height: 70,
     },
-  
     {
       skill_name: "Figma",
       Image: "/static/images/figma.png",
       width: 50,
       height: 50,
     },
-  
+    {
+      skill_name: "Webhooks",
+      Image: "/static/images/webhook.svg",
+      width: 70,
+      height: 70,
+    },
   ];
   
   export const Other_skill = [
     {
-      skill_name: "Go",
-      Image: "/static/images/go.png",
-      width: 60,
-      height: 60,
+      skill_name: "Tauri",
+      Image: "/static/images/tauri.svg",
+      width: 70,
+      height: 70,
     },
   ];
   

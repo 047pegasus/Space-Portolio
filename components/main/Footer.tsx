@@ -20,51 +20,51 @@ const Footer = () => {
                     <div className="font-bold text-[16px]">Community</div>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <FaYoutube />
-                        <span className="text-[15px] ml-[6px]">Youtube</span>    
+                        <span className="text-[15px] ml-[6px]"><a href="https://www.linkedin.com/in/tanishq047/">Youtube</a></span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxGithubLogo />
-                        <span className="text-[15px] ml-[6px]">Github</span>    
+                        <span className="text-[15px] ml-[6px]"><a href="https://www.github.com/047pegasus">Github</a></span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxDiscordLogo />
-                        <span className="text-[15px] ml-[6px]">Discord</span>    
+                        <span className="text-[15px] ml-[6px]"><a href="https://www.github.com/047pegasus">Discord</a></span>    
                     </p>
                 </div>
                 <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
                     <div className="font-bold text-[16px]">Social Media</div>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
-                        <FaYoutube />
-                        <span className="text-[15px] ml-[6px]">Instagram</span>    
+                        <RxInstagramLogo />
+                        <span className="text-[15px] ml-[6px]"><a href="https://www.instagram.com/047_pegasus">Instagram</a></span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
-                        <RxGithubLogo />
-                        <span className="text-[15px] ml-[6px]">Twitter</span>    
+                        <RxTwitterLogo />
+                        <span className="text-[15px] ml-[6px]"><a href="https://www.twitter.com/047pegasus">Twitter</a></span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
-                        <RxDiscordLogo />
-                        <span className="text-[15px] ml-[6px]">Linkedin</span>    
+                        <RxLinkedinLogo />
+                        <span className="text-[15px] ml-[6px]"><a href="https://www.linkedin.com/in/tanishq047/">Linkedin</a></span>    
                     </p>
                 </div>
                 <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
                     <div className="font-bold text-[16px]">About</div>
                    <p className="flex flex-row items-center my-[15px] cursor-pointer">
                      
-                        <span className="text-[15px] ml-[6px]">Become Sponsor</span>    
+                        <span className="text-[15px] ml-[6px]">Buy me Coffee</span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                       
-                        <span className="text-[15px] ml-[6px]">Learning about me</span>    
+                        <span className="text-[15px] ml-[6px]"><a href="https://linktr.ee/047pegasus">Other Projects</a></span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                   
-                        <span className="text-[15px] ml-[6px]">mifwebchain@gmail.com</span>    
+                        <span className="text-[15px] ml-[6px]"> 047pegasus@gmail.com</span>    
                     </p>
                 </div>
             </div>
 
             <div className="mb-[20px] text-[15px] text-center">
-                &copy; WebChain Dev 2023 Inc. All rights reserved
+                &copy; 047pegasus 2023 Inc. All rights reserved
             </div>
         </div>
     </div>
