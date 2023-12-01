@@ -13,9 +13,9 @@ const ProjectCard = ({ src, title, description }: Props) => {
       <Image
         src={src}
         alt={title}
-        width={1000}
-        height={1000}
-        className="w-full object-contain"
+        width={700}
+        height={700}
+        className="w-full object-cover hover:object-scale-down transition-all duration-200"
       />
 
       <div className="relative p-4">
