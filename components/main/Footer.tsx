@@ -23,12 +23,10 @@ const Footer = () => {
                         <FaYoutube />
                         <span className="text-[15px] ml-[6px]"><a href="https://www.linkedin.com/in/tanishq047/">Youtube</a></span>    
                     </p>
-                    <a href="https://www.github.com/047pegasus">
-                    <p className="flex flex-row items-center my-[15px] cursor-pointer">
+                    <p className="flex flex-row items-center my-[15px] ">
                         <RxGithubLogo />
-                        <span className="text-[15px] ml-[6px]">Github</span>    
+                        <span className="text-[15px] ml-[6px] cursor-pointer">Github</span>    
                     </p>
-                    </a>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
                         <RxDiscordLogo />
                         <span className="text-[15px] ml-[6px]"><a href="https://www.github.com/047pegasus">Discord</a></span>    

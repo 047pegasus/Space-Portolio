@@ -64,8 +64,11 @@
   display: none;
 }
 
-
-
 html {
   scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar{
+  width: 0.1em;
+  background: #070016;
 }
