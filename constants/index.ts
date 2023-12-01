@@ -101,66 +101,6 @@ export const Skill_data = [
   
   
   export const Frontend_skill = [
-    {
-      skill_name: "Html 5",
-      Image: "/static/images/html.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "CSS",
-      Image: "/static/images/css.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "JavaScript",
-      Image: "/static/images/js.png",
-      width: 65,
-      height: 65,
-    },
-    {
-      skill_name: "Tailwind Css",
-      Image: "/static/images/tailwind.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Material UI",
-      Image: "/static/images/mui.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "React",
-      Image: "/static/images/react.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Redux",
-      Image: "/static/images/redux.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "React Query",
-      Image: "/static/images/reactquery.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Type Script",
-      Image: "/static/images/ts.png",
-      width: 80,
-      height: 80,
-    },
-    {
-      skill_name: "Next.js",
-      Image: "/static/images/next.png",
-      width: 80,
-      height: 80,
-    },
   ];
   
   export const Backend_skill = [
