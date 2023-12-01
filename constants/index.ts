@@ -151,8 +151,8 @@ export const Skill_data = [
   
   export const Full_stack = [
     {
-      skill_name: "React Native",
-      Image: "/static/images/ReactNative.png",
+      skill_name: "Webhooks",
+      Image: "/static/images/webhook.svg",
       width: 70,
       height: 70,
     },
